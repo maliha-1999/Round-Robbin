@@ -24,6 +24,6 @@
 <h2>Applications</h2>
 <h3>Round Robin page replacement algorithm is commonly used in operating system CPU scheduling, network packet scheduling, and simulations requiring fair allocation of resources.</h3>
 <h2>Output will be given below :</h2>
-<img src="Round Robin.png" alt="Round Robin Diagram" style="max-width: 100%; height: auto;">
+<img src="Round Robbin.PNG" alt="Round Robbin Diagram" style="max-width: 100%; height: auto;">
     
 
